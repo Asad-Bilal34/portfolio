@@ -4,21 +4,21 @@ import { motion, AnimatePresence } from "framer-motion";
 const Testimonials = () => {
   const testimonials = [
     {
-      avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
+      avatar: "https://i.pravatar.cc/150?img=1",
       name: "Ali Amad Khan",
       title: "Founder of Subtle Marketing",
       quote:
         "Muhammad Asad Bilal built a complete Expense Tracker app for our company Subtle Marketing. The application made our expense management process smooth and efficient. He is highly skilled in MERN Stack and delivers on time.",
     },
     {
-      avatar: "https://api.uifaces.co/our-content/donated/6f6pUksG.jpg",
+      avatar: "https://i.pravatar.cc/150?img=2",
       name: "Sarah Ahmed",
       title: "Project Manager at Innovita",
       quote:
         "Muhammad Asad Bilal has an excellent grasp of front-end development. His designs are elegant and his work ethic is top-notch. He understands business needs and converts them into clean interfaces.",
     },
     {
-      avatar: "https://api.uifaces.co/our-content/donated/n4F6_wJv.jpg",
+      avatar: "https://i.pravatar.cc/150?img=3",
       name: "Hassan Raza",
       title: "Freelance Client",
       quote:

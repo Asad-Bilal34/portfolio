@@ -8,7 +8,7 @@ const projects = [
       "Smart browser extension to clip and save web content instantly.",
     image: "/image3.png",
     tags: ["React", "Firebase", "TailwindCSS", "Node.js"],
-    link: "https://github.com/your-username/ai-clipper",
+    link: "https://github.com/Asad-Bilal34",
   },
   {
     title: "Chrome Extension (AI Clipper)",
@@ -16,7 +16,7 @@ const projects = [
       "Track your daily expenses with real-time Firebase storage and analytics.",
     image: "/image2.png",
     tags: ["React", "Firebase", "TailwindCSS", "Node.js"],
-    link: "https://github.com/your-username/ai-clipper",
+    link: "https://github.com/Asad-Bilal34",
   },
   {
     title: "INoteBook",
