@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import { FaWhatsapp } from "react-icons/fa";
 
 const Aboutme = () => {
   return (
@@ -63,13 +64,21 @@ const Aboutme = () => {
             href="https://wa.me/3027823434?text=Hi%20Muhammad%20Asad%20Bilal,%20I%20visited%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20project!"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block mt-10 bg-indigo-600 text-white px-8 py-3 rounded-full font-medium shadow-md hover:shadow-xl hover:bg-indigo-700 transition"
+            className="
+    inline-flex items-center gap-3 mt-10 
+    bg-gradient-to-r from-green-500 to-green-600 
+    text-white px-8 py-3 rounded-full font-medium
+    shadow-lg hover:shadow-green-300/50 
+    transition-all duration-300
+    hover:from-green-600 hover:to-green-700
+  "
             initial={{ opacity: 0, scale: 0.9 }}
             whileInView={{ opacity: 1, scale: 1 }}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            transition={{ duration: 0.5 }}
+            whileHover={{ scale: 1.08 }}
+            whileTap={{ scale: 0.96 }}
+            transition={{ duration: 0.4 }}
           >
+            <FaWhatsapp size={22} />
             Let’s Work Together
           </motion.a>
         </div>
