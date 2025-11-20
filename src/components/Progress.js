@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const ProgressSection = () => {
   const skills = [
-    { title: "UI/UX Design", percent: 50 },
+    { title: "UI/UX Design", percent: 80 },
     { title: "Front End Development", percent: 70 },
     { title: "Backend Development", percent: 30 },
   ];
