@@ -24,7 +24,7 @@ const projects = [
       "Secure cloud-based app to create, edit, and manage personal notes.",
     image: "/image4.png",
     tags: ["React", "MongoDB", "Bootstrap", "Node.js", "Express"],
-    link: "https://github.com/your-username/ai-clipper",
+    link: "https://github.com/Asad-Bilal34/notebook.git",
   },
 ];
 
